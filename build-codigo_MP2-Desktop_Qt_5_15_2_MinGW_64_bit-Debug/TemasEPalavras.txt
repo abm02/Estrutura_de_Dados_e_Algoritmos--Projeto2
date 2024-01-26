@@ -1,0 +1,50 @@
+ALIMENTOS
+          PRESUNTO
+          BANANA
+          ARROZ
+          BOLO
+          MARMELADA
+          LIMONADA
+          OVO
+          PANQUECA
+          TORRADA
+          BOLACHA
+          CREPE
+CORES
+          AMARELO
+          VERMELHO
+          VERDE
+          AZUL
+          PRETO
+          VIOLETA
+          BRANCO
+          DOURADO
+ANIMAIS
+          LAGARTA
+          BACALHAU
+          ROUXINOL
+          FORMIGA
+          ZEBRA
+          GALINHA
+          ORNITORRINCO
+          GATO
+CIDADES
+          COIMBRA
+          LISBOA
+          PORTO
+          BRAGA
+          GUARDA
+          VISEU
+          LEIRIA
+          FARO
+          AVEIRO
+          SINTRA
+NOMES
+          ANA
+          JOAO
+          BEATRIZ
+          GUSTAVO
+          TERESA
+          CATARINA
+          MIGUEL
+          FILIPA
